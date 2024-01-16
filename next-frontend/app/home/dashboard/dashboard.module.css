@@ -1,0 +1,206 @@
+.maincls{
+    margin-top: 50px;
+}
+
+.card1{
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card2{
+    width: 85%;
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cardtable{
+    width: 85%;
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.dialogcard{
+    width: 100%;
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+.dialogcontent{
+    width: 1000px;
+}
+
+.innercard1{
+    width: 25%;
+    display: inline-flex;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.usernamediv {
+    display: flex;
+}
+
+.username{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+}
+
+.dialoginnercard2{
+    width: 20%;
+    display: inline-flex;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+}
+
+.innercard2{
+    width: 20%;
+    display: inline-flex;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    margin-left: 26px;
+    margin-right: 22px;
+    justify-content: center;
+}
+
+.dialoginnercard2{
+    width: 20%;
+    display: inline-flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    justify-content: center;
+}
+
+.morebtn{
+    margin-right: 5px;
+    background-color: rgba(138, 253, 89, 0.711);
+    border: 1px solid rgb(63, 209, 0);
+    color:rgb(28, 94, 0);
+    border-radius: 10px;
+}
+
+.morebtn:hover{
+    margin-right: 5px;
+    background-color: rgb(63, 209, 0);
+    border: 1px solid rgb(35, 118, 0);
+    color:white
+}
+
+.deletebtn{
+    margin-right: 5px;
+    background-color: white;
+    border: 1px solid red;
+    color: red;
+    border-radius: 20px;
+}
+
+.deletebtn:hover{
+    margin-right: 5px;
+    background-color: red;
+    border: 1px solid rgb(137, 0, 0);
+    color: white;
+}
+
+.clickhover{
+    display: flex;
+    padding: 10px;
+}
+
+.clickhover:hover{
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: inset;
+}
+
+.cardlable{
+    vertical-align: bottom;
+    display: inline-block;
+}
+
+.cardlable2{
+    vertical-align: bottom;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.carddiv{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.cardbtn{
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: 51.8vw;
+}
+
+.cancelbtn{
+    width: 100%;
+}
+
+.cancelicon{
+    margin-left: 5px;
+}
+
+.footerbtnsaccept{
+    width: 50%;
+    border-radius: 20px;
+    background-color: rgba(138, 253, 89, 0.711);
+    border: 1px solid rgb(63, 209, 0);
+    color:rgb(28, 94, 0);
+}
+
+.footerbtnsaccept:hover{
+    width: 50%;
+    border-radius: 20px;
+    background-color: rgb(63, 209, 0);
+    border: 1px solid rgb(35, 118, 0);
+    color:white
+}
+
+.footerbtnsreject{
+    width: 50%;
+    border-radius: 20px;
+    background-color: white;
+    border: 1px solid red;
+    color: red;
+    
+}
+
+.footerbtnsreject:hover{
+    width: 50%;
+    border-radius: 20px;
+    background-color: red;
+    border: 1px solid rgb(137, 0, 0);
+    color: white;
+    
+}
+
+.applyleavebtn{
+    border-radius: 20px;
+    border: 1px solid rgb(12, 87, 83);
+    background-color: rgba(32, 178, 171, 0.647);
+    color: rgb(12, 87, 83);
+}
+
+.applyleavebtn:hover{
+    border-radius: 20px;
+    border: 1px solid rgb(12, 87, 83);
+    background-color: rgb(12, 87, 83);
+    color: white;
+}
+

@@ -1,0 +1,20 @@
+.usernamediv {
+    display: flex;
+}
+
+.username{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+}
+
+.dialoginnercard2{
+    width: 20%;
+    display: inline-flex;
+    border: 1px solid black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+}

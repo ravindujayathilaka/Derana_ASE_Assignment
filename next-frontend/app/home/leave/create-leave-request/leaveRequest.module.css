@@ -1,0 +1,103 @@
+.container {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.left {
+    border: 1px solid rgb(211, 208, 208);
+    height: fit-content;
+    width: 47%;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.calender{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.bottommargin{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.badges{
+    margin: 5px;
+    border: 1px solid lightskyblue;
+    background-color: rgb(203, 231, 249);
+    color: lightseagreen;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.right {
+    border: 1px solid rgb(211, 208, 208);
+    height: fit-content;
+    width: 51%;
+    float: right;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.clearbtn{
+    width: 100%;
+}
+
+.requestForm{
+    margin: 20px;
+}
+
+.durationBtnF{
+    margin-right: 10px;
+}
+
+.durationBtnH{
+    margin-right: 10px;
+}
+
+.durationdiv{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.footerbtnssubmit{
+    width: 45%;
+    margin: 14px;
+    background-color: rgba(138, 253, 89, 0.711);
+    border: 1px solid rgb(63, 209, 0);
+    color:rgb(28, 94, 0);
+}
+
+.footerbtnssubmit:hover{
+    width: 45%;
+    margin: 14px;
+    background-color: rgb(63, 209, 0);
+    border: 1px solid rgb(35, 118, 0);
+    color:white
+}
+
+.footerbtnscancel{
+    width: 45%;
+    margin: 14px;
+    background-color: white;
+    border: 1px solid red;
+    color: red;
+    
+}
+
+.footerbtnscancel:hover{
+    width: 45%;
+    margin: 14px;
+    background-color: red;
+    border: 1px solid rgb(137, 0, 0);
+    color: white;
+    
+}

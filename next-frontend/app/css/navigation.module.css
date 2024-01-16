@@ -1,0 +1,11 @@
+@media (max-width: 500px) {
+    .justify-between {
+        justify-content: space-between;
+    }
+}
+
+@media (min-width:500px) {
+    .justify-between {
+        justify-content: end;
+    }
+}

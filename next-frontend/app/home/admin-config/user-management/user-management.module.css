@@ -1,0 +1,28 @@
+.maincls{
+    margin-top: 50px;
+}
+
+.container {
+    display: inline-block;
+    width: 90%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.left {
+    height: fit-content;
+    width: 49%;
+    float: left;
+    margin: 5px;
+    background-color: white;
+    padding: 20px;
+}
+
+.right {
+    height: fit-content;
+    width: 49%;
+    float: right;
+    background-color: white;
+    padding: 20px;
+}
